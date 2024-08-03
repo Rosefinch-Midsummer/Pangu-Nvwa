@@ -11,7 +11,7 @@ renderer = ["html"]
 after = ["links"]
 
 [output.html]
-additional-css = ["./theme/heti.min.css"]
+additional-css = ["./src/theme/heti.min.css"]
 
 
 
