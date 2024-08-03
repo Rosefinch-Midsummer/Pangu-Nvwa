@@ -9,3 +9,10 @@ command = "mdbook-toc"
 renderer = ["html"]
 [preprocessor.katex]
 after = ["links"]
+
+[output.html]
+additional-css = ["./theme/heti.min.css"]
+
+
+
+
